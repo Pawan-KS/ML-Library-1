@@ -13,10 +13,5 @@ This Repository contains my project on ML. In this project I have implemented ma
 >
 *6) Decision Tree*
 >
-Some of the **features** implemented are:-
->
-*1) Gradient Descent*
->
-*2) Mini-Batch Gradient Descent*
->
-*3) Learning Curves... etc.*
+with many other Visualisation graphs and comparison of scores with SCIKIT learn.
+This project was part of an official competition hosted by official programming club of the IIT Dhanbad namely **WINTER OF CODE (WOC) **.Also I stood 1st in the competition.
