@@ -13,7 +13,7 @@ This Repository contains my project on ML. In this project I have implemented ma
 >
 *6) Decision Tree*
 >
-with many other Visualisation graphs and comparison of scores with SCIKIT learn.
-This project was part of an official competition hosted by official programming club of the IIT Dhanbad namely 
+with many other Visualisation graphs and comparison of scores with SCIKIT learn.<br>
+This project was part of an official competition hosted by [Cyber Labs](https://cyberlabs.club/) (official programming club of the IIT (ISM) Dhanbad) namely 
 **WINTER OF CODE (WOC)**
-Also I stood 1st in the competition.
+Alse, I won the competition.
