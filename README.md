@@ -15,5 +15,5 @@ This Repository contains my project on ML. In this project I have implemented ma
 >
 with many other Visualisation graphs and comparison of scores with SCIKIT learn.<br>
 This project was part of an official competition hosted by [Cyber Labs](https://cyberlabs.club/) (official programming club of the IIT (ISM) Dhanbad) namely 
-**WINTER OF CODE (WOC)**
-Alse, I won the competition.
+**WINTER OF CODE (WOC)**.<br>
+Also, I won the competition.
